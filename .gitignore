@@ -1,6 +1,8 @@
 *.json
 *__pycache__
-dewarp
+dewarp/checkpoints
+dewarp/images
+dewarp/tb_logs
 images
 output
 *lightning_logs
